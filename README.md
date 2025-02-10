@@ -22,7 +22,6 @@ Atualmente estou construindo o meio de acesso a aplicação, mas caso tenha inte
 * A versão mais completa, atualmente permite:
   * Exportar as demais Tags do XML
   * Validação de Login
-  * S
 
 <!-- Este projeto é privado e pago. Para solicitar acesso, siga os passos abaixo:
 
