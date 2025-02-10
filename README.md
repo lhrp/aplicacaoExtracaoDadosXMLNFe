@@ -35,5 +35,5 @@ Atualmente estou construindo o meio de acesso a aplicação, mas caso tenha inte
 
 ## Versão Beta
 
-1. Acesse a págine de Releases
+1. Acesse a págine de [Releases](https://github.com/lhrp/aplicacaoExtracaoDadosXMLNFe/releases/tag/BetaVersion)
 2. Baixe a última versão disponível
