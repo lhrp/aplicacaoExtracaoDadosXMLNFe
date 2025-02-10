@@ -1,4 +1,4 @@
-# ExtracaoDadosXMLNFe
+# Extracao de Dados do XML da NFe
 
 Este projeto tem como objetivo extrair dados de arquivos XML de Notas Fiscais Eletrônicas (NFe) e exportá-los para um arquivo Excel. Construido utilizando Python e suas bibliotecas para manipulação de dados, interface gráfica e banco de dados.
 
