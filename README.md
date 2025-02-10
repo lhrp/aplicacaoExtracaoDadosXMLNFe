@@ -2,7 +2,9 @@
 
 Este projeto tem como objetivo extrair dados de arquivos XML de Notas Fiscais Eletrônicas (NFe) e exportá-los para um arquivo Excel. Construido utilizando Python e suas bibliotecas para manipulação de dados, interface gráfica e banco de dados.
 
-![projeto01](https://github.com/user-attachments/assets/d49440df-dd87-4f2e-bc36-056b88ee9e37)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d49440df-dd87-4f2e-bc36-056b88ee9e37" alt="projeto01" width="330">
+</div>
 
 ## Funcionalidades
 
